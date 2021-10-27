@@ -1,0 +1,1 @@
+To build this project, compile all classes and run Chess.java under package src/chess.
